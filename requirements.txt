@@ -1,0 +1,7 @@
+1-flask
+2-pyserial
+3-werkzeug
+4-Flask-Login
+5-pytz
+6-requests
+7-Jinja2
