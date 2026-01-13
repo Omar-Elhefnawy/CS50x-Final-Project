@@ -1,6 +1,4 @@
 # Smart Desk Monitor
-#### Video Demo:  https://youtu.be/uHJhfDd_hNk
-#### Description:
 
 ## Overview
 I was interested in integrating some electronics with some programming to make this project. While the technology these days is focusing on making anything smart, I came up with the idea of making the desk smart, and let's call this a **Smart Desk Monitor**. This project will be two parts: hardware and software. The hardware is responsible for sensing and ringing, while the software will be responsible for counting and saving. 
